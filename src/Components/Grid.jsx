@@ -4,7 +4,7 @@ const Grid = () => {
   return (
     <div>
         <h1>
-            hola
+            hola lopez como estas perra
         </h1>
     </div>
   )
